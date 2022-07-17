@@ -1,7 +1,8 @@
 let handler = async m => m.reply(`
 ┏━━°❀❬ *DONASI* ❭❀°━━┓
-┣➥ *Smartfren:* [08818770766]
-┣➥ *Tri:* [089520306297]
+*XL:* [081938681806]
+*AXIS:* [083137750223]
+
 ┣➥ *Dana:* [08818770766]
 ┣➥ *Saweria:* [https://saweria.co/Scaff]
 ┃ 「 *Chat OWNER* 」
