@@ -3,7 +3,7 @@ let chalk = require('chalk')
 
 global.Owner = {
     // use the phone number with the country code, for example Indonesia '62' America '1' etc
-    '628818770766': { // 628818770766
+    '6282124379785': { // 628818770766
         name: 'Zevano',
         isReport: true, // if true this number will send if user use command /report or /join
         isCreator: true, // if true this number will send if user use command /owner or /creator
@@ -18,7 +18,7 @@ global.ext = {
 global.mods = ['6283897390164'] // Want some help?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium user has unlimited limit
 global.DeveloperMode = 'false' // true or false
-global.linkGC = ['https://chat.whatsapp.com/JgFOfu182li7kG6dlKcwzD']
+global.linkGC = ['https://chat.whatsapp.com/GpwaG5nvU2yCitgJ7c8o8f']
 global.packname = 'NayLa-B0TZ'
 global.author = 'Zevano'
 global.multiplier = 36 // The higher, The harder levelup
